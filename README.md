@@ -4,8 +4,6 @@
 参考：http://www.shadertoy.com/view/XtBSWt 实现
 部分复刻 win95 中星空的屏幕保护
 ## 成功效果展示
-这里可以展示这份作业（项目）run起来后的可视化效果，可以让其他人更直观感受到你的工作
-
 ![starfield demo](./data/starfield.gif)
 ## 整体结构（Optional）
 脉络清晰的结构能完整展示你的设计思想，以及实现方式，方便读者快读代入，建议可以在repo的目录中包含如下内容：
