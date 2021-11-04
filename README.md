@@ -12,6 +12,7 @@
 -LICENSE
 -|data
 -README.MD
+-handy_shader_functions.py
 -starfield.py
 ```
 
